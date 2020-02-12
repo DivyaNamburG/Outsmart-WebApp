@@ -9,4 +9,15 @@ The idea of "outsmart" came out because of the online study material which was d
 This problem of management was easily solved by this application.
 
 The version of apk provided is disconnected from the server as it requires login credentials.
-Designed in Android Studio.
+Designed on Android Studio.
+
+
+Languages used
+       
+
+
+•	Platform used for development – Android Studio
+
+Backend Architecture
+
+ 
