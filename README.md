@@ -20,4 +20,4 @@ Languages used
 
 Backend Architecture
 
-![](arch.jpg)
+![](img/arch.jpg)
