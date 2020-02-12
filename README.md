@@ -1,5 +1,5 @@
 # Outsmart-WebApp
-Android application for University academics (named "Outsmart")
+Android application for University academics (named "Outsmart").
 
 APP- https://drive.google.com/file/d/1-47tTwP0x4ZIIIcZ8gUuq0xbSlu6Nkwt/view?usp=drivesdk
 
