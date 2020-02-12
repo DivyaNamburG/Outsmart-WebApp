@@ -21,3 +21,11 @@ Languages used
 Backend Architecture
 
 ![](img/arch.jpg)
+
+Snapshots of working application
+
+![](img/1.png)
+
+![](img/2.png)
+
+![](img/3.png)
