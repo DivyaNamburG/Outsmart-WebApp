@@ -1,4 +1,4 @@
-# Outsmart-WebApp
+﻿# Outsmart-WebApp
 Android application for University academics (named "Outsmart").
 
 APP- https://drive.google.com/file/d/1-47tTwP0x4ZIIIcZ8gUuq0xbSlu6Nkwt/view?usp=drivesdk
@@ -29,3 +29,7 @@ Snapshots of working application
 ![](img/2.png)
 
 ![](img/3.png)
+
+•	Future works
+
+Running same application code on a cloud, resulting in compatibility of many platforms.
