@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- night theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#3490f2</item>
+        <item name="textcolor">@color/colorPrimary</item>
+        <item name="backgroundcolor">#282828</item>
+        <item name="toolbarcolor">#000000</item>
+        <item name="buttonbackground">#000000</item>
+        <item name="navcolor">#282828</item>
+        <item name="android:actionMenuTextColor">#ffff</item>
+
+    </style>
+
+    <!-- day theme. -->
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#f2a540</item>
+        <item name="textcolor">#ffff</item>
+        <item name="backgroundcolor">#ffff</item>
+        <item name="navcolor">#ffffff</item>
+        <item name="toolbarcolor">#e87801</item>
+        <item name="buttonbackground">#e87801</item>
+
+        <item name="android:actionMenuTextColor">#ffff</item>
+    </style>
+
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme1.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme1.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>
