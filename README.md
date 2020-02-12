@@ -12,23 +12,27 @@ The version of apk provided is disconnected from the server as it requires login
 Designed on Android Studio.
 
 
-Languages used
+•	Languages used
        
 ![](img/lang.jpg)
 
+
 •	Platform used for development – Android Studio
 
-Backend Architecture
+
+•	Backend Architecture
 
 ![](img/arch.jpg)
 
-Snapshots of working application
+
+•	Snapshots of working application
 
 ![](img/1.png)
 
 ![](img/2.png)
 
 ![](img/3.png)
+
 
 •	Future works
 
