@@ -14,7 +14,7 @@ Designed on Android Studio.
 
 Languages used
        
-
+![](img/lang.jpg)
 
 •	Platform used for development – Android Studio
 
